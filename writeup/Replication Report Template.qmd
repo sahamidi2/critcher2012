@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of the study on: How Quick Decisions Illuminate Moral Character  (2012, Social Psychological and Personality Science)"
+author: "Clayton R. Critcher, Yoel Inbar and David A. Pizarro"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
